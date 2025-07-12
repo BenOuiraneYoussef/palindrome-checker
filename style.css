@@ -1,0 +1,23 @@
+.div{
+    width: 35%;
+    color: aliceblue;
+    margin: 0 auto;
+    display: block;
+}
+h1{
+    font-size: 48px;
+}
+button{
+    height: 30px;
+    width: 60px;
+    background-color: magenta;
+    cursor: pointer;
+}
+input{
+    width: 50%;
+    height: 25px;
+}
+body{
+    background: url("https://i.pinimg.com/736x/7e/86/8c/7e868c4dab0a4135b0e4ece10fa4130d.jpg");
+    background-size: cover;
+}
